@@ -25,7 +25,6 @@ class MigrateGenerateCommand extends GeneratorCommand {
 	 * @var string
 	 */
 	protected $name = 'migrate:generate';
-	ошибка ошибка
 
 	/**
 	 * The console command description.
