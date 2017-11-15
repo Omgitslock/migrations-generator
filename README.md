@@ -1,3 +1,4 @@
+test
 # Laravel Migrations Generator
 
 [![Build Status](https://travis-ci.org/Xethron/migrations-generator.svg)](https://travis-ci.org/Xethron/migrations-generator)
